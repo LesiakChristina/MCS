@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\MKC\Lab_1\Decoder\My2L2Decoder.ncd
+OUTFILE=D:\MKC\Lab_1\Decoder\My2L2Decoder.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s50a-5tq144
+WORKINGDIR=D:\MKC\Lab_1\Decoder
+LICENSE=WebPack
+USER_INFO=211628586_0_0_017
