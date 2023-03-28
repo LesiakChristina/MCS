@@ -1,0 +1,29 @@
+Command line:
+   My2L2Decoder_isim_map.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  8867
+
+Mon Mar 27 19:25:49 2023
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 5176.1 Meg
+
+ Total Signals          : 178
+ Total Nets             : 89
+ Total Signal Drivers   : 88
+ Total Blocks           : 50
+ Total Primitive Blocks : 42
+ Total Processes        : 90
+ Total Traceable Variables  : 129
+ Total Scalar Nets and Variables : 4368
+Total Line Count : 171
+
+ Total Simulation Time: 0.109375 sec
+
+ Current Memory Usage: 4704.24 Meg
+
+Mon Mar 27 19:48:44 2023
+
