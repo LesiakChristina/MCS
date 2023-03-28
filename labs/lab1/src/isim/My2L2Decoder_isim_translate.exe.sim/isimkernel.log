@@ -1,0 +1,10 @@
+Command line:
+   My2L2Decoder_isim_translate.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  8905
+
+Mon Mar 27 19:40:05 2023
+
+
+ Elaboration Time: 0.09375 sec
