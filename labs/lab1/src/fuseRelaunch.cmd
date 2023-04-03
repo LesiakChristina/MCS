@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/MKC/Lab_1/Decoder/My2L2Decoder_isim_beh.exe" -prj "D:/MKC/Lab_1/Decoder/My2L2Decoder_beh.prj" "work.My2L2Decoder" "work.glbl" 
